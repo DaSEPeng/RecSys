@@ -6,3 +6,4 @@
 |1 @ 3/10/2020 | | |  |
 
 ## 补充参考
+- [CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)
