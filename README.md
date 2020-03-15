@@ -10,3 +10,6 @@
 - [CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)
 - [CS 246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 - 《推荐系统实践》项亮著
+
+## 待整理
+- [CTR预估模型有怎样的发展规律？](https://www.zhihu.com/question/363531892/answer/1062392197)
