@@ -2,12 +2,12 @@
 
 本课程内容主要包含四部分：推荐系统基础知识、核心技术、系统优化、前沿
 
-<center>
+
 |序号 |内容简介 |参考资料 |
 |:--: |:--: |:--: |
 |第一节 @ 3/10/2020 |课程简介 | |
 |第二节 @ 3/13/2020 |信息检索基础 |[CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/) |
-</center>
+
 
 ## 项目
 - Indexing and search
