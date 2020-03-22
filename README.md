@@ -24,3 +24,11 @@
 
 ## 待整理
 - [CTR预估模型有怎样的发展规律？](https://www.zhihu.com/question/363531892/answer/1062392197)
+
+
+------------------------------------------------------------
+
+<div style="text-align:center;">
+This page maintained by @ <a href="https://dasepeng.github.io/">DaSEPeng</a>, 	
+<a href="https://github.com/DaSEPeng/Machine-Learning/">View on GitHub</a>
+</div>
