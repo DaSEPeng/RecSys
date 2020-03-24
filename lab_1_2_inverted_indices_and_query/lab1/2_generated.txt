@@ -1,0 +1,1774 @@
+'d	1	16
+'m	1	32
+'ve	1	54
+(212)	1	97
+(212)594-6100	1	91
+(718)398-3575	1	100
++	1	96
+-	1	50
+...	2	11 12
+1	1	79
+1,100	1	75
+1.50	1	77
+10	3	6 7 9
+10-foot-wide	1	13
+10.995	1	18
+11	4	3 86 87 95
+118-year-old	1	16
+11:30	1	89
+12	3	4 23 96
+12:30	1	79
+13	2	40 43
+135th	1	89
+14	1	10
+15	1	72
+154	1	74
+16	1	14
+1843	1	36
+1895	2	40 43
+19	2	7 8
+1911	1	14
+1920	1	26
+1928	1	34
+1950	3	48 49
+1970	1	66
+1980	2	28 31
+1985	1	29
+1986	1	22
+1997	1	36
+1998	1	84
+1:30	1	79
+2	5	11 12 82 88 91
+20	2	37 90
+2001	4	19 29 35 47
+2005	3	19 29 35
+2006	1	14
+2008	3	54 55 73
+21	1	77
+24	2	18 56
+24-year-old	1	74
+25	2	88 91
+25th	1	54
+295	1	79
+29th	1	44
+2:30	1	79
+3	2	79 97
+30	1	31
+30-mile	1	78
+300	1	20
+31	1	45
+31-year-old	1	32
+32	1	74
+348-5344	1	97
+3593	1	68
+36	1	45
+367	1	25
+38-year-old	1	24
+4	4	56 79 96
+40	5	19 25 29 35 84
+41	1	84
+467-0660	1	79
+49-year-old	1	47
+4:30	1	79
+5	1	89
+50	2	10 76
+500	1	25
+515	1	89
+518	1	17
+54	1	10
+58	1	47
+59	1	9
+6	2	18 87
+60	1	10
+600	1	38
+65	1	96
+67	2	40 42
+68-year-old	2	40 42
+7	2	14 95
+7-year-old	2	60 64
+7.8	1	30
+74	1	23
+7863	1	67
+792	1	79
+8	3	76 96 97
+80	1	18
+800	1	75
+803	1	100
+81st	1	84
+858-456-8111	1	67
+9	2	84 97
+907-1125	4	57 58 61 62
+92037-0696	1	68
+92103	1	68
+9500	1	68
+9:30	1	15
+?	2	17 77
+`	5	8 16 40 42 90
+a.	1	32
+a.m.	6	84 86 87 89 95 97
+a17	1	9
+abandoned	1	26
+abortion	2	49 50
+abortionist	3	48 49 50
+abortions	1	48
+above	1	54
+abraham	1	32
+accolades	2	49 50
+according	3	19 29 35
+acknowledged	1	71
+acres	1	30
+across	5	40 43 45 58 62
+activist	1	23
+activities	1	50
+actress	1	49
+actually	2	14 16
+adaptation	2	11 12
+additional	1	37
+adjacent	1	84
+adm.	1	2
+admission	1	96
+adolf	1	66
+adriano	1	22
+adults	1	96
+advantage	1	25
+advocate	1	23
+affecting	1	33
+afford	1	28
+afraid	1	3
+after	6	18 25 39 41 44 66
+afternoon	2	2 28
+again	3	26 49 50
+against	1	47
+agence	2	49 50
+agent	1	27
+ago	2	34 35
+aguadilla	2	37
+ailing	2	11 12
+air	1	37
+airport	1	37
+alien	2	59 63
+all	3	15 17 26
+all-ages	1	28
+allow	1	12
+along	6	53 59 60 63 64 94
+alpine	1	45
+also	3	22 51 94
+although	2	78 94
+always	1	45
+alzheimer	1	68
+amendment	2	54 56
+america	1	69
+amityville	1	66
+among	3	47 61 65
+amphicars	2	9 10
+amway	1	9
+andrew	2	11 12
+anhui	2	61 65
+annual	2	49 50
+another	6	2 25 47 69 76 80
+anti-templeton	1	71
+antonelle	3	2
+any	2	22 77
+anywhere	1	45
+apartment	1	31
+apartment-sit	1	78
+apartments	2	18 27
+apparel	1	24
+apparent	1	44
+appearing	2	40 43
+applicants	1	25
+april	1	31
+aransas	1	45
+arch	1	88
+archetypal	1	76
+architecture	1	36
+area	3	8 71 73
+areas	1	37
+arisen	2	59 63
+arlene	1	28
+army	3	86 88 95
+around	4	8 23 30 48
+arrest	2	39 41
+art	5	21 68 70 72
+arteries	1	94
+article	1	77
+arts	1	21
+asia	4	57 58 61 62
+assembly	2	23
+assemblyman	1	22
+astrophysicist	1	70
+asylum	1	36
+atlantic_city	2	47
+atriums	1	65
+attended	2	7 8
+attends	1	79
+attorney	2	22 33
+august	1	67
+author	1	51
+auto	1	69
+autonomous	4	57 58 61 62
+ave.	1	68
+avian	2	61 65
+award-winning	2	11 12
+awards	2	49 50
+b.	1	2
+back	3	23 46
+bad	1	76
+bagel	1	25
+band	1	10
+bar	1	23
+barreled	2	40 43
+barrytown	1	51
+bars	1	45
+baruch	1	13
+based	2	27 71
+bass	1	88
+bathroom	1	12
+beach	2	69 72
+bears	1	9
+became	3	6 59 63
+because	2	1 30
+bed	1	12
+beds	1	45
+before	3	27 40 43
+began	2	21 27
+begin	1	26
+beginning	2	46
+begins	1	31
+behind	1	36
+beijing	2	60 64
+being	6	7 8 14 16 60 64
+belief	1	71
+believed	1	22
+bell	2	57
+below	1	49
+beltran	1	73
+benefit	2	20 68
+beret	1	47
+best	4	49 50 51
+between	1	76
+beyond	2	13 71
+bialy	1	25
+bid	3	54 55 73
+big	1	67
+biggest	1	30
+bike	1	78
+birch_bayh	5	54 55 56
+birds	2	61 65
+birth	1	1
+black	2	44 89
+blackberry	1	44
+blair	1	10
+blend	1	26
+blocklong	1	80
+blocks	1	76
+blonde	2	6 7
+blue	1	34
+blundering	1	57
+board	1	2
+boats	1	69
+bob_levy	2	47
+bombing	1	48
+bookstore	1	74
+boomer	1	69
+born	3	14 31 32
+borough	2	22 33
+boss	1	47
+botanic	1	97
+both	3	6 7 94
+bove	1	56
+boy	2	60 64
+boys	1	78
+brady	1	24
+brandes	1	16
+brazil	2	6 52
+breaks	1	48
+brick	1	15
+bride	1	74
+briefly	2	40 43
+bring	1	26
+british	7	48 49 50
+british_columbia	1	38
+broker	1	18
+brooklynmuseum.org	1	83
+broome	1	67
+brothers	1	45
+brought	1	44
+bruce	1	10
+build	1	80
+builders	1	33
+building	5	15 18 25 26 73
+built	1	75
+bullock	1	68
+buloff	1	26
+buses	1	38
+bush	1	67
+bushwick	1	34
+business	1	57
+buzz	1	17
+c\/o	1	68
+ca	2	68
+cablevision	1	38
+cafiero	1	20
+cake	1	28
+calif.	1	2
+california	4	70 71
+calit2	1	70
+call	1	8
+called	3	1 27 36
+came	1	38
+cameron	1	73
+campground	1	10
+can	1	15
+canceled	1	10
+candidate	3	22 47
+candidates	2	14 16
+capital	2	46
+car	1	44
+card	2	33 44
+careful	2	16 56
+carlina	1	22
+carmakers	1	69
+carmel	1	2
+carnival	3	86 87 95
+carol_stephenson	1	57
+carroll	1	75
+cars	1	10
+case	1	34
+casualties	1	48
+catering	1	45
+catholic	3	1 2 3
+cause	2	1 84
+causes	2	9 56
+cecil	1	76
+celebrity-filled	2	7 8
+celina	4	9 10 11
+cemetery	1	76
+centrist	2	56
+centuries	1	35
+century	1	6
+chairman	3	38 56
+challenged	1	77
+challenging	1	47
+champion	1	56
+championship	1	73
+change	1	23
+changsha	2	46
+character	4	7 8 49 50
+charles	1	1
+charney	1	24
+chef	3	15 67
+chenango	1	67
+chevy	1	45
+chickens	1	56
+chief	2	47
+childhood	1	51
+children	7	26 36 56 76 79 96
+chilling	1	27
+chinatown	4	14 16 30
+chopping	1	66
+christ	1	2
+christi	1	45
+christmas	1	36
+church	4	1 2 3
+circle	2	49 50
+circumstances	1	47
+cities	5	37 57 58 61 62
+civil	2	14 16
+clandestine	1	50
+classes	1	75
+classic	3	11 12 56
+clean	3	59 63 93
+cleaning	1	49
+clichã©d	1	20
+client	1	65
+cliff	1	68
+clinic	1	73
+closed	1	31
+closely	2	22 47
+co-op	1	27
+co-owner	1	67
+coast	1	66
+coastline	2	58 62
+coaxed	1	44
+coffee	3	45 77
+colm	1	4
+columbia	1	13
+comedic	1	26
+commission	1	55
+commitment	1	44
+commodities	1	30
+communities	1	86
+community	1	72
+company	1	23
+competition	2	10 68
+completed	1	80
+computer	1	70
+concern	1	84
+condition	1	3
+conductors	1	4
+connect	1	3
+connected	1	34
+connects	1	34
+connor	1	22
+conquistadors	1	69
+conservative	1	9
+consistently	1	15
+contemporary	4	51 68 70 72
+contest	2	47
+contested	2	14 16
+contradict	1	22
+contributor	1	9
+conversion	1	51
+cordelia	1	31
+cornell	1	3
+corner	3	82 86 88
+corpus	1	45
+coterie	1	69
+could	4	22 28 77 78
+council	2	33 56
+count	2	11 12
+counties	2	67
+country	1	45
+county	4	6 7 8
+couple	2	29 71
+course	1	73
+coursed	1	87
+court	2	14 16
+courtyards	1	33
+covering	3	19 29 35
+covers	1	82
+craniacs	1	45
+crash	1	1
+crawford	2	11 12
+create	1	15
+created	1	69
+crime	3	36 39 42
+crisis	1	51
+critical	1	3
+critics	2	49 50
+cross-ventilation	1	33
+crossing	2	40 43
+crowded	1	30
+crowds	1	87
+crux	1	50
+cubes	1	15
+cuisine	2	15 67
+cultural	2	59 63
+culture	1	89
+cuny	1	19
+cup	1	77
+curbs	1	17
+current	2	15 54
+customers	1	69
+cyclists	1	94
+dancers	1	87
+dancing	1	20
+dangerous	1	28
+daughter	4	2 5 22 74
+daughters	1	52
+day	5	36 86 87 95
+de	4	1 2 3 67
+dean	1	57
+death	1	28
+debut	1	18
+decade	1	51
+declared	3	40 42 67
+deep-fried	1	15
+delancey	2	12 18
+delaware	1	67
+delta	1	37
+demanded	1	44
+demeanor	1	78
+democratic	5	14 16 22 47 56
+democratic-controlled	1	23
+departed	1	66
+department	4	3 19 29 35
+derive	1	34
+described	3	6 60 64
+describing	1	69
+desert	2	60 64
+deserves	1	72
+design	1	69
+designed	1	65
+designer	2	20 24
+desirable	1	28
+development	1	17
+devon	1	36
+devoted	1	50
+dickson_county	1	53
+did	2	30 69
+died	5	14 22 26 36
+different	1	35
+difficult	1	57
+dinner	1	17
+direct	1	13
+director	6	19 20 48 49 50 70
+dirk_kuyt	1	44
+dirt	1	38
+disalvo	1	67
+disaster	1	67
+disco	1	28
+discovery	2	60 64
+disease	1	68
+distinguished	1	52
+district	5	14 16 20 23 33
+dive	1	45
+do	2	76 93
+dodgers	2	66
+dog	1	4
+donated	1	9
+donations	1	68
+dot	2	58 62
+down	2	25 87
+downtown	2	72 73
+dozen	1	23
+dr.	2	5 72
+drab	1	48
+drake	1	49
+drama	3	26 49 50
+dramatic	1	50
+drawing	1	87
+drawn	1	33
+dream	1	74
+drive	2	10 68
+drivers	1	17
+drops	1	13
+drove	1	10
+drown	1	3
+dufresne	1	15
+dumped	1	53
+during	3	22 59 63
+dutch	1	44
+dutchess_county	1	51
+e.	1	1
+e.m.t.	1	27
+earliest	1	65
+early	2	38 56
+east	6	14 16 23 33 93
+east-central	2	58 62
+easy	1	66
+eat	1	67
+eating	1	76
+echo	1	69
+echoing	1	66
+edges	1	53
+editor	1	77
+education	1	22
+educational	1	71
+effect	1	48
+effective	1	66
+egg	1	13
+eggs	1	15
+eight	1	67
+eight-and-a-half-hour	1	15
+eldorado	1	69
+eldridge	1	16
+elected	1	47
+election	1	23
+electromechanical	1	2
+elements	1	65
+elevators	1	33
+eliot	1	22
+elm	1	84
+emblematic	1	67
+emotional	2	6 7
+empire	4	57 58 61 62
+employees	1	44
+emulsifiers	1	15
+end	1	18
+endless	1	69
+energy	1	69
+england	2	35 36
+enjoyed	1	10
+eno	1	53
+enormous	2	59 63
+entered	1	47
+entrance	1	97
+envelope-pushing	1	15
+environment	3	82 86 88
+enzymes	1	15
+equal	1	56
+equipment	1	1
+erected	1	22
+error	1	1
+eruv	2	22 24
+escalated	1	71
+espaillat	1	22
+especially	2	52 76
+essex	1	25
+europe	1	26
+evan_bayh	5	54 55 56
+evangelical	1	2
+even	3	34 58 62
+eventually	1	26
+ever	1	22
+every	2	6 7
+everyone	1	8
+evidence	4	57 58 61 62
+excavated	4	57 58 61 62
+excitement	2	6 7
+executive	1	57
+exhaust	1	26
+exhibit	1	9
+expanse	2	59 63
+expected	1	10
+exuberant	1	78
+f	1	20
+f3	2	40 43
+face	2	6 7
+fact	1	65
+factories	2	59 63
+factory	1	28
+failure	1	1
+fair	1	87
+fairmount	2	39 42
+family	4	10 48 50 68
+far	1	45
+farber	2	40 42
+farm	2	59 63
+farms	2	58 62
+farther	1	80
+fast-growing	2	46
+fatal	1	1
+father	4	54 55 60 64
+fe	1	69
+fear	1	26
+features	2	33 47
+february	2	14 23
+federal	1	1
+feinstein	1	22
+felt	1	69
+fenced-off	1	94
+fernando	1	22
+ferrer	1	22
+few	5	23 59 60 63 64
+fiction	1	6
+field	2	14 16
+fifth	1	68
+figures	1	50
+filled	1	69
+filmmaker	1	51
+finalists	1	25
+finally	1	31
+fine	1	77
+finest	1	37
+finger	1	76
+fire	1	3
+firefighter	1	3
+firms	1	44
+first	2	51 54
+fistful	1	93
+five	1	37
+fizz	1	13
+fla.	1	14
+flat	1	35
+flatbush	1	88
+flattened	1	70
+flavorful	1	26
+flights	1	37
+floats	1	87
+flooding	1	67
+floor-to-ceiling	1	12
+flop	1	44
+flour	1	15
+flow	1	87
+flushing	1	21
+flying	1	27
+focused	1	75
+follow	1	26
+following	1	68
+fondness	1	66
+food	1	76
+foodie	1	67
+foreign	1	33
+forest	1	66
+forget	2	20 93
+form	1	38
+formed	1	51
+forms	1	51
+fort	2	75
+forward	1	44
+fosco	2	11 12
+foundation	2	68
+founder	3	9 16 56
+four	5	14 16 29 45 76
+fourth-grade	1	74
+framed	1	34
+france-presse	2	49 50
+francis	3	1 2 3
+frankford_township	1	56
+franklin	1	84
+free	2	96
+free-for-all	1	71
+freelance	1	32
+frequent	1	24
+fridays	1	84
+fridge	1	76
+friedman	1	23
+frustration	2	6 7
+fugitive	1	51
+fulfilling	1	74
+full	2	29 75
+function	2	7 8
+funeral	1	1
+funky	1	31
+furniture	1	24
+g.	1	20
+gabriel	1	6
+gallery	1	21
+garcã­a	1	6
+garden	2	38 97
+gardens	1	75
+garrincha	1	52
+gathered	3	9 15 25
+geisel	1	72
+general	3	22 74 80
+genius	1	36
+george	1	21
+george_lutz	1	66
+get	1	27
+gets	1	13
+gilded	4	57 58 61 62
+gill	1	22
+gilman	1	68
+girard	1	67
+girls	2	50 78
+gleams	1	69
+go	4	2 41 43 76
+goal	1	44
+gobi	2	60 64
+going	2	20 76
+goldstein	1	32
+golf	1	73
+good	2	76 79
+good-natured	1	48
+got	1	69
+gotham	1	19
+government	2	59 63
+graduate	2	19 21
+grand	5	25 33 86 88 95
+gratz	1	16
+great	2	52 56
+greater	1	68
+greatest	1	17
+green	2	35 47
+green-wood	1	76
+greene	2	75
+greenwich	3	14 16 69
+gritty	1	17
+grocery	1	28
+ground	1	4
+group	1	56
+guangdong	2	46
+guard	1	84
+guy	1	66
+habitation	2	40 42
+half	1	19
+hall	1	9
+hamill	1	66
+handbag	1	24
+handed	2	49 50
+hank_ratner	1	38
+hard	1	67
+hard-fought	1	33
+hardships	1	30
+harlem	5	33 40 43 89
+hassidic	1	86
+hated	1	66
+hazardous	1	53
+headquarters	3	39 41 73
+health	1	84
+heavy	1	44
+heights	6	79 82 86 87 88
+helen	1	9
+helicopters	1	27
+helping	2	26 50
+herd	2	60 64
+here	2	14 16
+herkimer	1	67
+hewed	1	22
+high	1	35
+hikers	1	38
+hill	1	45
+hills	5	6 7 58 62 66
+hilly	1	72
+him	3	9 22 36
+hinterland	2	59 63
+hipsters	1	27
+hirsute	1	66
+history	2	19 84
+hit	1	67
+hitler	1	66
+hollin	1	45
+home	5	4 26 44 45 72
+homeless	1	26
+honky-tonks	1	45
+honors	2	49 50
+hoped	2	75 80
+hopes	1	23
+hoping	1	27
+horizon	1	69
+horses	2	60 64
+hospital	3	3 73 80
+hospitality	1	26
+hotel	3	12 34
+hotels	1	65
+hours	2	10 44
+house	2	29 37
+housed	1	16
+houses	4	13 39 42 75
+housing	2	13 31
+how	3	16 70 76
+hudson	2	40 43
+human	2	40 42
+humanity	1	87
+hunan	4	46 61 65
+hundreds	1	54
+hymn	1	3
+i.	1	5
+i.e.	1	34
+identified	1	3
+if	4	3 41 43 93
+ii	2	48 50
+imelda	2	49 50
+immigrants	2	30 32
+impermissible	1	22
+improving	1	22
+included	1	33
+includes	2	14 16
+including	2	23 53
+increase	3	19 29 35
+incumbent	1	47
+india	4	58 62
+indian	4	86 87 95
+indiana	4	54 55
+industrial	2	59 63
+industry	1	69
+influence	1	22
+influential	1	6
+influenza	2	61 65
+information	1	70
+informs	1	54
+insane	1	36
+inside	1	68
+install	1	12
+installed	1	25
+instance	3	19 29 35
+instead	3	1 71 75
+institute	1	70
+institutions	1	76
+insulting	1	77
+intellectual	1	71
+interdisciplinary	1	70
+interest	1	33
+intersection	1	88
+into	6	1 12 13 15 52 71
+investigation	1	1
+investor	1	71
+invigorating	1	71
+involves	1	50
+irvine	1	70
+island	3	22 34 56
+islands	1	100
+istvan	1	78
+italy	2	14 16
+ivey	1	57
+j.	1	4
+jack	1	67
+jack_newfield	1	66
+jail	2	40 42
+jamaica	1	37
+january	1	31
+jcm	1	79
+jean-georges	1	67
+jersey	2	40 43
+jet	1	1
+jewish	1	79
+jinan	1	65
+john_constable	2	35 36
+johnson	1	90
+joke	1	8
+jorge_amado	1	6
+jose	1	13
+joseph	3	2 3 66
+journal	2	60 64
+judaism	1	51
+july	2	40 43
+jumping	2	40 43
+june	3	14 37 88
+just	3	41 43 80
+k	1	72
+kadison	1	26
+kafka	1	6
+kalikow	1	38
+katrina	1	3
+keeps	1	44
+kellogg	1	79
+ken	1	90
+kenneth	1	68
+killing	2	40 43
+kind	2	8 71
+king	1	52
+kingston	5	37 79 82 86 88
+kitchens	1	30
+knitting	1	28
+known	4	23 51 56 70
+kolasinski	1	28
+kossar	1	25
+kyle	1	18
+l	2	34
+l.	1	2
+labels	1	20
+labor	1	87
+laboratory	1	70
+lady	2	21 26
+laguna_beach	4	6 7 8
+laid	4	57 58 61 62
+laid-back	1	72
+lake	2	38
+land	1	35
+landfill	1	53
+landlord	1	18
+langford	2	47
+largest	2	13 30
+larry	2	31 70
+lasts	1	84
+late	1	72
+later	1	29
+latin	1	6
+laundry	1	93
+lauren_conrad	4	6 7 8
+laurie	1	79
+law	1	48
+layout	1	22
+lead-foot	1	45
+leadership	1	56
+leading	3	20 22 26
+leaves	1	53
+leaving	1	36
+lenox	1	89
+let	1	23
+letter	1	38
+liao	4	57 58 61 62
+libation	1	23
+liberal	1	56
+licensed	1	27
+lichtenberg	1	5
+lies	1	51
+life	3	30 48 50
+lifeguards	2	47
+light	2	60 64
+like	3	15 44 56
+likely	1	20
+limited	1	38
+limos	1	20
+line	1	20
+lined	2	17 72
+lines	2	20 37
+linking	1	13
+lispector	1	6
+listing	1	27
+little	3	14 16 36
+live	2	28 74
+lived	2	28 71
+lives	6	8 27 32 51 60 64
+living	3	26 30 33
+llosa	1	6
+lloyd	2	11 12
+lobbies	1	33
+local	2	23 47
+located	1	25
+location	1	68
+lockup	2	40 42
+logo	1	53
+long	1	56
+long-held	1	74
+longer	1	78
+longingly	1	78
+longtime	1	72
+look	1	23
+looking	1	78
+looks	1	13
+lorenzo	2	47
+lounge	1	18
+loved	2	35 90
+low	1	35
+lower	1	19
+lt.	1	2
+luba	1	26
+luckenbach	1	45
+ludlow	1	23
+lure	1	33
+lured	1	67
+lutheran	1	2
+m.	1	2
+m.a.	2	40 42
+m.t.a.	1	38
+made	3	22 60 64
+magazine	2	7 8
+magnets	1	2
+mahal	1	47
+major	2	9 94
+make	3	18 38 57
+malta	1	13
+mammal	2	60 64
+mansions	2	72 82
+manufacturer	1	24
+many	3	33 44 65
+map	1	34
+march	2	47 90
+marching	1	10
+margate	1	14
+marilyn	1	90
+mario	1	6
+marion	1	5
+marks	1	87
+marriage	1	56
+married	1	2
+marsha	1	24
+martin	1	22
+mary	1	26
+may	3	11 12 77
+mayonnaise	1	15
+mayor	2	47
+mc0696	1	68
+mckay	1	45
+me	1	54
+meadows-corona	1	21
+meant	1	10
+meanwhile	2	14 16
+meatpacking	1	20
+median	1	94
+meeting	5	71 82 86 88 97
+melting	1	15
+member	1	55
+members	1	15
+memorial	1	88
+men	1	66
+merchants	1	87
+mercy	1	73
+merit	1	68
+merits	1	78
+mesa	1	73
+mesas	2	58 62
+message	1	22
+michael	2	11 12
+michelle	1	18
+mid-20th	1	6
+midtown	1	23
+might	1	1
+migrated	1	53
+mike	5	48 49 50
+miles	1	53
+milford	2	41 43
+million	3	9 18 38
+minirally	1	22
+minute	1	44
+minutes	4	37 72 84
+miranda	1	13
+mixologist	1	13
+modern	2	15 51
+molina	1	84
+monday	1	95
+mondays	1	79
+monroe	1	90
+montgomery	1	67
+month	3	18 34 70
+months	3	23 57 76
+moon	1	34
+moore	1	3
+mooresville	2	8
+morning	1	38
+most	5	6 24 47 66 67
+mostly	1	35
+mother	3	50 60 64
+mourned	1	48
+moved	2	29 56
+movie	1	50
+mrs.	1	21
+ms.	2	49 56
+mtv	4	6 7 8
+much	3	59 63 87
+multilevel	1	67
+murvin	1	5
+musical	3	11 12 68
+muted	1	87
+my	4	51 74 78
+mysterious	1	47
+mythical	1	69
+mã¡rquez	1	6
+n't	2	28 76
+n.j.	2	40 42
+name	2	9 50
+narrowing	1	25
+national	3	10 45 51
+native	1	53
+natural	1	84
+nature	3	35 60 64
+nearby	1	78
+nearly	1	44
+need	1	76
+neighborhood	6	39 42 75 76 82
+neighborhoods	4	24 34 75
+neighbors	1	12
+neilson	1	4
+netherlands	1	44
+network	1	71
+networks	1	70
+new_jersey	3	52 53 56
+new_york	2	44 67
+newest	1	65
+newyork-presbyterian\/weill	1	3
+next	2	34
+nextness	1	34
+nexus	1	16
+night	6	3 15 20 73 84
+nights	1	45
+nightspots	2	20 23
+nine	1	15
+nissan	1	69
+no	2	22 78
+no-frills	1	77
+noel	1	45
+noho	2	14 16
+nominated	1	49
+nomination	1	47
+noodles	1	15
+nook	1	13
+noon	1	79
+north	7	33 41 43 72 80 82 88
+north_carolina	1	8
+northeast	2	82 88
+northern	6	39 42 59 60 63 64
+noses	1	78
+noticed	1	54
+nov.	1	4
+november	3	7 8 36
+now	1	57
+nowhere	1	94
+number	1	17
+o'hara	1	38
+o'malley	1	66
+oak	1	53
+objects	4	57 58 61 62
+observe	1	76
+obtained	1	31
+ocean	3	68 73 94
+oceanside	1	72
+off	3	40 43 69
+offer	1	38
+offers	1	30
+office	2	15 44
+official	1	3
+officially	1	70
+officials	1	1
+often	1	84
+ohio	4	9 10 11
+old	2	66 84
+older	2	60 64
+on-court	1	78
+once	3	6 7 78
+one-name	1	52
+only	6	12 15 59 60 63 64
+open	4	30 33 70 73
+opened	2	29 34
+opening	3	3 67 74
+opera	1	18
+opinion	1	22
+optional	1	9
+orange	4	6 7 8
+orchard	2	18 21
+organ	1	2
+organization	1	71
+organizations	1	68
+organizing	1	55
+original	1	29
+originally	1	75
+oscar	1	49
+other	2	24 33
+others	2	36 52
+otsego	1	67
+our	3	14 16 21
+outbreaks	2	61 65
+outside	3	35 78 97
+over	4	9 26 33 69
+overlaid	1	53
+overlooking	1	68
+overlooks	1	73
+overrated	1	4
+own	3	44 45 51
+owner	1	66
+owners	1	9
+p.s.	1	79
+pacific	1	73
+pad	1	27
+page	1	9
+painted	1	35
+painter	1	36
+palisades	2	40 43
+palisades_interstate_parkway	2	52 53
+palm	1	69
+parade	2	86 87
+paradegoers	1	87
+parents	3	26 51 78
+parish	1	1
+parkside	1	18
+parkway	1	94
+part	3	14 16 27
+parties	1	28
+parts	1	33
+pass	1	3
+passenger	2	1 4
+past	1	34
+paterfamilias	1	66
+path	1	13
+paths	1	94
+patience	1	26
+patrick	1	2
+patterns	1	22
+pebbled	2	59 63
+pedestrian	1	13
+pedestrians	1	94
+peggy	1	2
+pelã©	1	52
+penniless	1	36
+people	6	7 8 20 40 43 70
+percent	3	19 29 35
+perched	1	68
+performing	1	48
+perhaps	1	67
+perk	2	7 8
+pete	1	66
+peter	2	20 38
+philip	1	2
+photographs	1	90
+picking	1	76
+pickup	1	45
+pilot	1	1
+pines	2	73
+pipes	1	2
+pit	1	47
+pitt	1	13
+place	5	36 73 75 76 97
+places	1	77
+plane	2	4 69
+planned	1	20
+planning	2	20 93
+plans	1	10
+plastic	1	12
+play	2	51 66
+played	1	49
+playground	1	22
+playing	2	26 45
+plaza	3	86 88 95
+plight	1	51
+plot	1	80
+plunge	1	4
+polls	1	22
+pollution	2	59 63
+ponce	1	37
+pool	1	25
+poplar	1	53
+popular	2	7 8
+port_aransas	2	45
+portholes	1	9
+portman	1	65
+possible	2	54 55
+post	1	50
+power	1	9
+prairie	2	59 63
+precinct	3	19 29 35
+president	3	22 33 67
+presidential	2	54 55
+primary	3	14 16 54
+pristine	1	38
+private	1	48
+professional	1	44
+project	1	16
+projects	2	13 31
+prominently	1	50
+promises	2	59 63
+promising	2	14 16
+provide	1	33
+provincial	2	46
+public	3	13 22 74
+published	1	34
+puerto_rico	2	37
+pulled	1	52
+pushcarts	1	19
+put	2	25 56
+puzzled	1	13
+quarters	1	93
+quast	3	2
+quests	1	69
+rabassa	1	6
+rabbi	2	22
+rabbin	2	5
+race	1	47
+races	2	33 47
+raging	1	3
+rail	1	20
+raised	1	23
+rapes	3	19 29 35
+rapidly	1	71
+rarest	1	30
+rarities	1	15
+rationing	1	48
+reaches	1	17
+read	1	54
+real	4	6 7 8
+reality	2	7 8
+realized	1	21
+realty	1	18
+reason	3	46 71
+rebuilt	1	84
+recalled	2	40 42
+recently	5	57 58 61 62 80
+recommendations	2	14 16
+recovered	1	76
+refuge	1	45
+regis	1	52
+regular	1	18
+reigning	1	26
+relatively	3	15 33 45
+religion	1	71
+remember	1	17
+remote	1	13
+renowned	1	6
+reopen	1	1
+reported	4	49 50 61 65
+reputation	1	72
+request	2	12 65
+research	4	56 68 70 89
+resident	1	77
+residents	4	13 30 39 42
+rest	1	52
+restaurant	2	34 67
+return	2	11 12
+returning	1	45
+returns	1	31
+revolution	2	59 63
+revolves	1	48
+rex	1	26
+reynolds	1	66
+richard	1	57
+richard_devos	1	9
+ride	3	60 64 78
+riders	1	20
+right	4	6 7 11 12
+rights	1	56
+rite	1	93
+ritzy	1	72
+rivelino	1	52
+river	3	59 63 87
+rivington	2	12 23
+road	3	38 53 94
+roads	1	72
+robert	1	71
+roberta	1	16
+rockport	1	45
+role	4	4 11 12 71
+roles	1	26
+roman	3	1 2 3
+ronaldinho	1	52
+ronaldo	1	52
+room	1	23
+rooms	2	20 33
+rose	1	26
+rosedale	1	2
+rosemary	1	2
+round-trip	1	78
+row	1	75
+rowhouses	1	82
+run	1	37
+ryan	1	66
+s.	1	38
+safe	1	21
+safety	1	1
+sale	1	18
+sales	3	1 2 3
+samuel	1	32
+sandals	1	20
+sandwiched	1	76
+santa	1	69
+saving	1	27
+saw	1	4
+saxophone	1	88
+says	1	66
+scattered	2	58 62
+scheduled	2	11 12
+scholar	1	19
+schomburg	1	89
+school	5	21 27 57 74
+schumer	1	1
+science	2	71
+scoffs	2	59 63
+screening	1	48
+screenplay	2	49 50
+scripps	1	73
+sea	1	3
+seamlessweb	1	44
+seaside	1	69
+seats	3	14 16 33
+seattle	1	10
+second	3	3 14 16
+secret	2	20 48
+secrets	1	51
+section	3	39 42 69
+security	1	84
+see	1	10
+seemed	1	3
+seemingly	1	69
+seen	4	19 29 35 78
+selected	1	80
+semirural	1	56
+sen.	1	1
+senior	1	20
+sept.	1	3
+september	1	37
+series	2	7 8
+served	1	30
+service	3	20 37 44
+set	2	48 66
+settlement	1	79
+seuss	1	72
+seven	1	31
+seven-mile	1	38
+several	1	30
+shadow	1	52
+shall	1	3
+shandong	1	65
+share	1	75
+sheep	2	60 64
+sheila	1	76
+shift	3	15 67 84
+shop	3	25 28 31
+shopkeeper	2	59 63
+shops	1	45
+short	2	60 64
+show	5	18 57 58 61 62
+showcase	1	15
+showed	1	25
+shower	1	12
+shown	1	21
+shows	1	28
+shrimp	1	15
+shrug	1	26
+shunned	1	24
+shuttle	1	84
+side	2	23 72
+sides	1	94
+sightseeing	1	34
+silhouettes	1	53
+similar	2	75 94
+sinvin	1	18
+siphon	2	46
+sister	2	60 64
+site	2	73 80
+sites	2	70 72
+situated	1	27
+six	2	36 45
+six-story	1	18
+sky	1	35
+slaves	1	51
+sleep	1	45
+slope	3	75 79 88
+small	4	45 60 64 77
+smarr	1	70
+smidgen	2	6 7
+smile	1	66
+so	6	35 59 63 75 78 79
+soccer	1	52
+society	5	56 57 58 61 62
+soho	4	14 16 29 31
+some	2	46
+sometimes	2	6 7
+soon	1	21
+sorrows	1	21
+soup	1	30
+south	1	86
+southeast	1	86
+southern	3	20 58 62
+space	1	30
+special	1	23
+specifics	1	23
+spend	2	75 77
+spent	2	73
+spewing	2	59 63
+spitzer	1	22
+splendor	4	57 58 61 62
+spoken	1	70
+sponsor	1	54
+sponsored	1	71
+sprouted	1	23
+spy	1	12
+squat	1	15
+squatters	1	26
+st.	4	1 2 3 87
+stable	1	3
+stalin	1	66
+stars	1	66
+start	1	15
+started	2	15 76
+starting	4	37 58 62
+startled	2	39 42
+state	3	22
+staten	1	56
+station	1	84
+staunton	3	49 50
+still	3	34 48 51
+stone	1	18
+stop	1	52
+store	2	24
+stores	1	18
+story	2	31 48
+straddles	1	79
+streets	2	13 23
+strong	1	68
+studded	1	2
+students	1	96
+studiomda	1	18
+stunning	1	68
+suburb	1	69
+subway	1	84
+such	2	22 25
+sufficient	1	33
+suggests	1	68
+sullivan	1	67
+summer	3	10 37 87
+summers	1	78
+sunday	4	79 86 87 91
+sunken	1	33
+sunlight	1	33
+sunshine	1	36
+surfing	1	37
+surrounded	2	59 63
+survival	1	71
+suzanne	1	19
+swim-in	1	10
+sylvia	1	23
+symbol	1	44
+synagogue	1	16
+system	1	25
+taj	1	47
+taken	3	3 39 41
+takes	3	25 44 84
+tap	1	18
+tapes	1	25
+teacher	2	10 74
+teachers	1	79
+team	1	15
+teaneck	2	41 43
+technology	1	70
+ted	1	72
+teen	2	7 8
+teenage	1	52
+telecommunications	1	70
+temples	4	57 58 61 62
+tenant	2	18
+tenants	2	33
+tenements	2	30 33
+tennessee	1	53
+teresa	1	2
+testing	2	54 55
+texas	2	45
+theater	3	21 25 26
+them	6	25 26 44
+theme	1	30
+themselves	1	52
+then	1	80
+there	7	1 20 28 31 36 94
+these	3	10 14 16
+they	3	15 75
+thing	2	54 76
+third	2	30 56
+thomas	1	2
+thoroughly	1	51
+though	1	12
+thought	1	4
+thousand	1	51
+three	6	36 40 43 61 65 66
+through	5	3 37 79 88 90
+throughout	2	20
+thrown	2	7 8
+thursday	2	18 26
+thursdays	1	79
+time	7	27 31 44 48 54 67 77
+times	1	54
+tip	2	58 62
+title	1	49
+today	3	60 64 89
+tombs	4	57 58 61 62
+tomorrow	4	82 88 89 97
+tony	2	17 67
+took	1	36
+torrey	2	73
+touch	1	44
+tours	1	86
+toward	1	67
+town	1	44
+towns	1	45
+traditional	1	51
+traditionally	1	24
+traffic	1	22
+train	3	34
+transfer	1	20
+transit	1	20
+translator	1	6
+trappings	1	20
+treasure	1	30
+treasurer	1	68
+treasures	4	57 58 61 62
+tree	1	84
+trees	2	53 69
+trekking	1	17
+tribeca	1	28
+trip	1	84
+true	1	80
+trump	1	47
+tulip	1	53
+turnout	1	33
+turns	1	8
+two-family	2	39 42
+types	1	17
+u.s.	1	73
+ucsd	1	68
+ukraine	1	32
+ulster	1	67
+ultimately	1	34
+under	3	2 47 96
+underground	1	53
+underwritten	1	71
+undulating	1	87
+uneventful	2	15
+unfit	2	40 42
+university	2	70
+university_of_western_ontario	1	57
+unlike	1	24
+unsettling	1	66
+unthinkable	1	22
+until	1	84
+unusual	1	48
+unusually	2	14 16
+up-and-coming	1	75
+upcoming	2	14 16
+upper	1	17
+upstate	1	67
+urban	3	82 86 88
+urge	1	69
+use	1	16
+used	3	8 24 74
+users	1	20
+uses	1	15
+utica	2	86 95
+v.i.p.	1	20
+vacancies	1	17
+vancouver_island	1	36
+vargas	1	6
+various	1	76
+vaughn	1	31
+vera	2	5 49
+vera_drake	7	48 49 50 51
+verse	1	3
+versed	2	59 63
+very	1	36
+vice	2	2 38
+view_royal	1	36
+village	4	14 16
+vintage	1	24
+visible	1	12
+visiting	1	86
+visual	1	21
+vladeck	1	17
+volunteered	2	59 63
+walk-up	1	18
+walking	2	4 86
+walkway	1	13
+walled	4	57 58 61 62
+walter	1	66
+wanna	1	90
+wanted	2	28 79
+war	2	48 50
+warned	1	16
+warp	1	51
+wars	1	77
+washington	2	87 100
+wasserman	1	19
+waste	1	53
+watched	1	47
+water	1	35
+waters	3	3 54 55
+way	5	17 28 38 56 69
+ways	2	59 63
+wd-50	2	13 15
+we	2	26 74
+weather	1	87
+webber	2	11 12
+wednesday	2	27 31
+week	5	10 45 61 65 78
+weekend	1	9
+weep	1	21
+well	5	15 20 58 62 72
+went	1	26
+were	4	15 19 33 48
+west	7	66 84 86 87 88 95
+what	1	35
+whenever	1	13
+whichard	1	31
+while	6	4 17 37 50 56
+white	2	11 12
+whom	1	3
+whose	3	21 76 79
+wife	3	9 36 50
+wild	1	33
+wildlife	1	45
+wilkie_collins	2	11 12
+will	6	2 11 12 18 70
+william	1	5
+williams	1	27
+williamsburg	1	34
+wind	3	26 58 62
+winding	1	72
+window	3	12 35 78
+windows	2	12 33
+withdrew	1	47
+without	2	15
+wittels	1	18
+woman	4	11 12 48 49
+women	1	20
+won	3	23 49 50
+wonders	1	52
+wood	1	66
+woof	1	51
+word	1	16
+wore	2	6 7
+work	3	15 59 63
+workaday	1	50
+workers	2	46
+working	2	24 75
+working-class	1	48
+works	1	84
+world	5	13 48 50 70
+would	5	8 23 57 73 77
+wrenching	1	26
+writer	1	32
+writers	1	6
+written	1	49
+www.brooklynmuseum.org	2	91 96
+www.jackslajolla.com	1	67
+wylie	1	15
+year	3	60 64 77
+years	7	29 30 51 59 60 63 64
+yellow	1	44
+yesterday	4	1 2 67 87
+yiddish	1	26
+yoho_national_park	1	38
+yolk	1	13
+yorker	1	24
+youngest	1	76
+your	2	77 93
+zeps	1	71
+zico	1	52
+zone	1	77
+zulma	1	84
