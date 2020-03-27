@@ -13,7 +13,7 @@
 
 ## 项目
 - Indexing and search
-  - 倒排索引构建与查询：[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)
+  - 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
 - CF-based recommendation
 - Content-based recommendation
 - Recommend the importance of test cases for DBMS
