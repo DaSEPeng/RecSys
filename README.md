@@ -10,10 +10,12 @@
 |第一节 @ 3/10/2020 |课程简介 |[Web4.0](https://blog.csdn.net/sinat_29485667/article/details/81147705) |
 |第二节 @ 3/13/2020 |信息检索基础 |[CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/) |
 |第三节 @ 3/24/2020 |数据挖掘基础 |[Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|
+|第三节 @ 3/31/2020 |基于用户的协同过滤 ||
 
 ## 项目
-- Indexing and search
+- 索引构建与查询
   - 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
+  - 支持通配查询处理的检索系统：轮排索引构建与查询
 - CF-based recommendation
 - Content-based recommendation
 - Recommend the importance of test cases for DBMS
