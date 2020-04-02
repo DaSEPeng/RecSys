@@ -8,7 +8,7 @@
 |序号 |内容简介 |参考资料 |
 |:--: |:--: |:--: |
 |第一节 @ 3/10/2020 |课程简介 |[Web4.0](https://blog.csdn.net/sinat_29485667/article/details/81147705) |
-|第二节 @ 3/13/2020 |信息检索基础 |[CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/) |
+|第二节 @ 3/13/2020 |信息检索基础 |[CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)、[信息检索导论中文版](http://staff.ustc.edu.cn/~network/ir/) |
 |第三节 @ 3/24/2020 |数据挖掘基础 |[Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)|
 |第三节 @ 3/31/2020 |基于用户的协同过滤 ||
 
