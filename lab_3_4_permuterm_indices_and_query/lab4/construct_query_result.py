@@ -36,7 +36,7 @@ def load_inverted_indices(file_path):
 
 def load_permuterm_indices(file_path):
     """
-    读取轮排索引对照表，返回对应的倒排索引term
+    读取轮排索引对照表，返回对应的倒排索引term（已经按照倒排变换结果即第一列排好序）
     :param file_path:
     :return:
     """
@@ -54,6 +54,7 @@ def load_permuterm_indices(file_path):
             else:
                 print ("    {} Indices Loaded!".format(permuterm_num))
                 break
+    result_list = sorted(result_list, key=lambda x: x[0])   # 按照第一列升序排序
     return result_list
 
 def load_queries(file_path):
@@ -101,13 +102,20 @@ def query_permuterm_indices(query,permuterm_indices):
     :return:
     """
     result = []
+    start = 0   # 标记是否已经找到开始的了
     query_len = len(query)
     for indices in permuterm_indices:
         permuterm = indices[0]
         ind_len = len(permuterm)
         if ind_len >= query_len:
             if query == permuterm[:query_len]:
+                start = 1
                 result.append(indices[1])  # 返回对应的term
+            elif query > permuterm and start == 1:    # 因为已经排好序了，这里能加速
+                print (query)
+                print (permuterm)
+                print ("\n")
+                break
     return result
 
 def query_indices(tmp_query,permuterm_indices,tmp_indices):
@@ -172,6 +180,7 @@ if __name__ == '__main__':
     indices_list = load_inverted_indices(inverted_indices_path)
     permuterm_indices = load_permuterm_indices(permuterm_indices_path)
     queries = load_queries(queries_path)
+    print (permuterm_indices[-100:])
 
     # 对每一条查询进行处理
     query_num = 0
