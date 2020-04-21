@@ -2,9 +2,10 @@
 
 本课程内容主要包含四部分：推荐系统基础知识、核心技术、系统优化、前沿
 
-**课本：**
-- 《Recommender System Handbook》 [Francesco Ricci](http://www.inf.unibz.it/~ricci/)著
+**推荐资料：**
 - 《推荐系统实践》项亮著
+- 《深度学习推荐系统》王喆著（强推）
+- 《Recommender System Handbook》 [Francesco Ricci](http://www.inf.unibz.it/~ricci/)著
 
 |序号 |内容简介 |参考资料 |
 |:--: |:--: |:--: |
