@@ -28,6 +28,7 @@
 
 ## 待整理
 - [CTR预估模型有怎样的发展规律？](https://www.zhihu.com/question/363531892/answer/1062392197)
+- [基于用户协同过滤与基于物品协同过滤的比较](https://blog.csdn.net/shenxiaoming77/article/details/51566481)
 
 
 ------------------------------------------------------------
