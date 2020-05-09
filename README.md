@@ -5,7 +5,7 @@
 **课程参考资料：**
 - 《推荐系统实践》项亮著
 - 《深度学习推荐系统》王喆著（强推）
-- 《Recommender System Handbook》 [Francesco Ricci](http://www.inf.unibz.it/~ricci/)著
+- 《Recommender System Handbook》 Francesco Ricci著
 - [Recommender Systems - An Introduction](http://recommenderbook.net/)
 - [CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)
 - [信息检索导论中文版](http://staff.ustc.edu.cn/~network/ir/)
