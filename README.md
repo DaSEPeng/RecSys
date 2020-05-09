@@ -20,6 +20,8 @@
   - 基于用户的协同过滤算法
   - 基于物品的协同过滤算法
 - 基于内容的推荐算法
+  - 基于内容的推荐算法
+  - 基于协同过滤与基于内容的联合算法
 - Recommend the importance of test cases for DBMS
 
 
