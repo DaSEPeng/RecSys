@@ -13,7 +13,8 @@
 - [CS 246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
 **期中测试**
-- []()
+- [题目](mid-term-test/dianping_RecSys_request.pdf)
+- [解答](mid-term-test/dianping_RecSys_solution.pdf)
 
 **论文阅读**
 - TBC
