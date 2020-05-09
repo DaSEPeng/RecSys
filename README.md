@@ -12,6 +12,15 @@
 - [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 - [CS 246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
+**期中测试**
+- []()
+
+**论文阅读**
+- TBC
+
+**期末Survey**
+- TBC
+
 ## 课堂项目
 - 索引构建与查询
   - [x] 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
