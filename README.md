@@ -11,7 +11,7 @@
 - [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 - [CS 246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
-**期中测试**
+**期中测试：大众点评推荐系统架构设计**
 - [题目](mid-term-test/dianping_RecSys_request.pdf)
 - [解答](mid-term-test/dianping_RecSys_solution.pdf)
 
