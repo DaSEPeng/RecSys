@@ -14,15 +14,15 @@
 
 ## 课堂项目
 - 索引构建与查询
-  - 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
-  - 支持通配查询处理的检索系统：轮排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_3_4_permuterm_indices_and_query)] [[参考课件](https://wenku.baidu.com/view/82397684b04e852458fb770bf78a6529657d356a.html)]
+  - [x] 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
+  - [x] 支持通配查询处理的检索系统：轮排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_3_4_permuterm_indices_and_query)] [[参考课件](https://wenku.baidu.com/view/82397684b04e852458fb770bf78a6529657d356a.html)]
 - 基于协同过滤的推荐算法 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_5678_collaborative_filtering)] [[参考Github](https://github.com/Magic-Bubble)]
-  - 基于用户的协同过滤算法
-  - 基于物品的协同过滤算法
+  - [x] 基于用户的协同过滤算法
+  - [x] 基于物品的协同过滤算法
 - 基于内容的推荐算法
-  - 基于内容的推荐算法
-  - 基于协同过滤与基于内容的联合算法
-- Recommend the importance of test cases for DBMS
+  - [ ] 基于内容的推荐算法
+  - [ ] 基于协同过滤与基于内容的联合算法
+- [ ] 为数据库系统推荐测试样例
 
 
 ## 待整理
