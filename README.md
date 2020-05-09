@@ -7,8 +7,7 @@
 - 《深度学习推荐系统》王喆著（强推）
 - 《Recommender System Handbook》 Francesco Ricci著
 - [Recommender Systems - An Introduction](http://recommenderbook.net/)
-- [CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)
-- [信息检索导论中文版](http://staff.ustc.edu.cn/~network/ir/)
+- [CS 276: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)  [[中文版](http://staff.ustc.edu.cn/~network/ir/)]
 - [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 - [CS 246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 
