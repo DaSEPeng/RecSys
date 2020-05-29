@@ -30,7 +30,7 @@
   - [x] 基于用户的协同过滤算法
   - [x] 基于物品的协同过滤算法
   - 参考：[参考Github](https://github.com/Magic-Bubble)
-- 基于内容的推荐算法 [[GitHUb](https://github.com/DaSEPeng/RecSys/tree/master/lab_9101112_content_based_and_mixed_rec)]
+- 基于内容的推荐算法 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_9101112_content_based_and_mixed_rec)]
   - [x] 基于内容的推荐算法
   - [x] 基于协同过滤与基于内容的联合算法
 - 期末项目：为数据库系统推荐测试样例
