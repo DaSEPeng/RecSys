@@ -24,10 +24,12 @@
 ## 课堂项目
 - 索引构建与查询
   - [x] 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
-  - [x] 支持通配查询处理的检索系统：轮排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_3_4_permuterm_indices_and_query)] [[参考课件](https://wenku.baidu.com/view/82397684b04e852458fb770bf78a6529657d356a.html)]
-- 基于协同过滤的推荐算法 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_5678_collaborative_filtering)] [[参考Github](https://github.com/Magic-Bubble)]
+  - [x] 支持通配查询处理的检索系统：轮排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_3_4_permuterm_indices_and_query)]
+  - 参考：[参考课件](https://wenku.baidu.com/view/82397684b04e852458fb770bf78a6529657d356a.html)
+- 基于协同过滤的推荐算法 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_5678_collaborative_filtering)] 
   - [x] 基于用户的协同过滤算法
   - [x] 基于物品的协同过滤算法
+  - 参考：[参考Github](https://github.com/Magic-Bubble)
 - 基于内容的推荐算法 [[GitHUb](https://github.com/DaSEPeng/RecSys/tree/master/lab_9101112_content_based_and_mixed_rec)]
   - [x] 基于内容的推荐算法
   - [x] 基于协同过滤与基于内容的联合算法
