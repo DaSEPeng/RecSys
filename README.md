@@ -28,9 +28,9 @@
 - 基于协同过滤的推荐算法 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_5678_collaborative_filtering)] [[参考Github](https://github.com/Magic-Bubble)]
   - [x] 基于用户的协同过滤算法
   - [x] 基于物品的协同过滤算法
-- 基于内容的推荐算法
-  - [ ] 基于内容的推荐算法
-  - [ ] 基于协同过滤与基于内容的联合算法
+- 基于内容的推荐算法 [[GitHUb](https://github.com/DaSEPeng/RecSys/tree/master/lab_9101112_content_based_and_mixed_rec)]
+  - [x] 基于内容的推荐算法
+  - [x] 基于协同过滤与基于内容的联合算法
 - 期末项目：为数据库系统推荐测试样例
   - [ ] 开题
   - [ ] 代码
