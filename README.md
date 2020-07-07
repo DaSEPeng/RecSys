@@ -15,12 +15,6 @@
 - [题目](mid-term-test/dianping_RecSys_request.pdf)
 - [解答](mid-term-test/dianping_RecSys_solution.pdf)
 
-**论文阅读**
-- TBC
-
-**期末Survey**
-- TBC
-
 ## 课堂项目
 - 索引构建与查询
   - [x] 倒排索引构建与查询 [[GitHub](https://github.com/DaSEPeng/RecSys/tree/master/lab_1_2_inverted_indices_and_query)]
@@ -34,9 +28,6 @@
   - [x] 基于内容的推荐算法
   - [x] 基于协同过滤与基于内容的联合算法
 - 期末项目：为数据库系统推荐测试样例
-  - [ ] 开题
-  - [ ] 代码
-  - [ ] 报告
 
 ## 待整理
 - [CTR预估模型有怎样的发展规律？](https://www.zhihu.com/question/363531892/answer/1062392197)
